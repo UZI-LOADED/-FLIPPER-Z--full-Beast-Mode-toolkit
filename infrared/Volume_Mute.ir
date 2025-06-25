@@ -1,0 +1,5 @@
+Filetype: IR file
+Version: 1
+Protocol: NEC
+Address: 00FF
+Command: 20DF906F

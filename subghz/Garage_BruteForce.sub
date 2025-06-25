@@ -1,0 +1,5 @@
+Filetype: Flipper SubGhz RAW File
+Version: 1
+Frequency: 433000000
+Protocol: RAW
+RAW_Data: 1010 -1010 1010 -1010 1010 -1010

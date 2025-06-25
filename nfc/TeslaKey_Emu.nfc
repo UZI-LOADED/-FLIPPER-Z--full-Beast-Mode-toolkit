@@ -1,0 +1,6 @@
+Filetype: Flipper NFC device
+Version: 1
+UID: A1:B2:C3:D4:E5:F6
+ATQA: 00 04
+SAK: 08
+Data: 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01

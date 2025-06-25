@@ -1,0 +1,1 @@
+Scans for BLE beacons and logs MAC addresses.

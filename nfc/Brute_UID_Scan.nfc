@@ -1,0 +1,5 @@
+Filetype: Flipper NFC brute force
+Version: 1
+StartUID: 04:00:00:00
+EndUID: 04:FF:FF:FF
+DelayMs: 100

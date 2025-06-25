@@ -1,0 +1,5 @@
+Filetype: IR file
+Version: 1
+Protocol: NEC
+Address: 22AA
+Command: 33DD55EE

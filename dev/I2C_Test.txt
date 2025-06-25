@@ -1,0 +1,1 @@
+Scans I2C devices connected to GPIO.

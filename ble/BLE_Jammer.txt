@@ -1,0 +1,1 @@
+Simulates overlapping BLE signals to confuse pairing.
